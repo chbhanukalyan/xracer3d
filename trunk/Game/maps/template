@@ -1,0 +1,5 @@
+/* y starts with -20
+in order of x  y  width */
+/* y of last vertex should be greater than 220 */
+/* first polygon & last polygon should be greater than 25 (for better results > 100)*/
+/* last polygon should be min of length >= 220*/

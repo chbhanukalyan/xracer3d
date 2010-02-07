@@ -1,0 +1,15 @@
+0	--	street light
+1	--	cube type house
+2	--	tree
+3	--	hut like building
+4to9	--	people
+10	--	dust bin
+11	--	bench left
+12	--	rotated bench right
+13	--	tree2 
+14	--	railing
+//15	--	building 1
+//16 	--	building 2
+input in order:
+
+id x z

@@ -1,0 +1,3 @@
+if the car collides the wall from back its velocity will become zero
+
+if the car collides the wall from front its velocity will become zero
